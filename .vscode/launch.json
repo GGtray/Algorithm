@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "Trie.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "BinarySearch.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "Array.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "DynamicProgramming.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "Math.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "Tree.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "Knary.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "SlidingWindow.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "DFS.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "LinkedList.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Run",
+            "request": "launch",
+            "mainClass": "BFS.Run",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Algorithm_9e36f4c9>",
+            "request": "launch",
+            "mainClass": "BinarySearch.Test",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Algorithm_9e36f4c9>(1)",
+            "request": "launch",
+            "mainClass": "Heap.Test",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Algorithm_9e36f4c9>(2)",
+            "request": "launch",
+            "mainClass": "LinkedListAndTree.Test",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Algorithm_9e36f4c9>(3)",
+            "request": "launch",
+            "mainClass": "Queue.Test",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test1<Algorithm_9e36f4c9>",
+            "request": "launch",
+            "mainClass": "Queue.Test1",
+            "projectName": "Algorithm_9e36f4c9"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Solution<Algorithm_9e36f4c9>",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Algorithm_9e36f4c9"
+        }
+    ]
+}
